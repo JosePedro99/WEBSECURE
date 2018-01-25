@@ -86,7 +86,7 @@ min-height: 518px;padding-top:inherit;overflow: hidden;}
     padding-left: 20px;
     
 }
-p{background-color: #80808052}
+p{background-color: #80808052;}
 #texto{
     margin-left: 249px;
     font-size:xx-large
@@ -95,7 +95,7 @@ p{background-color: #80808052}
 
 article{padding-top: 105px;}
 
-#art2{    overflow: hidden;padding-bottom: 60px;background-color: #00ff668c
+#art2{    overflow: hidden;padding-bottom: 60px;background-color: #00ff668c;
     /*margin-top: 50px;*/
    
     }
@@ -138,7 +138,7 @@ p{border-style: groove;overflow: inherit;padding-top: 20px;
 #art5{text-align: center;}
 #art2 p {line-height: 1.4;}
 #art4 section {    width: 45%;
-    float: left;background-color:#d8ff005c
+    float: left;background-color:#d8ff005c;
     }
     
 #art4 section:nth-child(even) {float: right;}
